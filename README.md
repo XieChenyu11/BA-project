@@ -1,2 +1,2 @@
 # BA-project
-For Business Analysis Project
+For Business Analysis Project Proposal
